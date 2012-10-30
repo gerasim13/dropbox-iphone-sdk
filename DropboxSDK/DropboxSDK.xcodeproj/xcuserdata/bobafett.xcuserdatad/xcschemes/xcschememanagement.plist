@@ -3,23 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict>
-		<key>DropboxOSX.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>11</integer>
-		</dict>
-		<key>DropboxSDK.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>9</integer>
-		</dict>
-		<key>SDropboxSDK.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>10</integer>
-		</dict>
-	</dict>
+	<dict/>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>D3196B821412FE180060E7C6</key>
